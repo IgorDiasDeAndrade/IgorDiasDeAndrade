@@ -4,7 +4,6 @@ Atualmente estou estudando sobre as ferramentas necessárias para um desenvolved
 Procuro colaborar com repositórios que me darão a expertise necessária para lidar com problemas reais do cotidiano de um desenvolvedor
 Você pode me encontrar através do linkedin: https://www.linkedin.com/in/igor-dias-ba9a57110/
 
-![Git-Icon-1788C](https://user-images.githubusercontent.com/91294383/165632634-7f564418-ccb8-4683-825b-702ed61153d1.png)
 
 <!---
 IgorDiasDeAndrade/IgorDiasDeAndrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
