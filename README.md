@@ -1,7 +1,7 @@
 # Olá, me chamo **Igor Dias** 😀
 
+Sou um Desenvolvedor FullStack em formação pela Cubos Academy!
 
-- Sou um Desenvolvedor FullStack em formação pela Cubos Academy!
 - Possuo interesse nas áreas de desenvolvimento de software bem como estrutura de dados e qualidade de software
 - Atualmente estou estudando sobre as ferramentas necessárias para um desenvolvedor fullstack
 - Procuro colaborar com repositórios que me darão a expertise necessária para lidar com problemas reais do cotidiano de um desenvolvedor
@@ -9,6 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igordiasdeandrade)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/igordiasdeandrade)
+
 
 ---
 
