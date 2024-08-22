@@ -1,9 +1,8 @@
 # Olá, me chamo **Igor Dias** 😀
 
-Sou um Desenvolvedor FullStack em formação pela Cubos Academy!
+Sou um Desenvolvedor FullStack e consultor ERP Protheus
 
 - Possuo interesse nas áreas de desenvolvimento de software bem como estrutura de dados e qualidade de software
-- Atualmente estou estudando sobre as ferramentas necessárias para um desenvolvedor fullstack
 - Procuro colaborar com repositórios que me darão a expertise necessária para lidar com problemas reais do cotidiano de um desenvolvedor
 
 
