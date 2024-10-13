@@ -6,7 +6,7 @@ Sou um Desenvolvedor FullStack e consultor ERP Protheus
 - Procuro colaborar com repositórios que me darão a expertise necessária para lidar com problemas reais do cotidiano de um desenvolvedor
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igordiasdeandrade)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igordiasandrade)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/igordiasdeandrade)
 
 
